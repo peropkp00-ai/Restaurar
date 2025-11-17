@@ -1,0 +1,10 @@
+Hola,
+
+Como solicitaste, aquí está el contenido exacto que mi sistema genera cuando quiero ejecutar el comando `reset_all`.
+
+No hay ningún texto adicional antes o después de esto. Es mi única respuesta en ese turno.
+
+Formato exacto:
+call:reset_all{}
+
+Como puedes ver, es un formato estructurado. `call:` indica que es una llamada a una herramienta, `reset_all` es el nombre de la herramienta, y `{}` contendría los argumentos si los hubiera (en este caso, no hay ninguno).

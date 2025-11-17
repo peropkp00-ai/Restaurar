@@ -1,0 +1,13 @@
+{
+  "sessionId": "chat-save-session-1763270129425",
+  "startTime": "2025-11-16T05:15:29.424Z",
+  "lastUpdated": "2025-11-16T05:15:29.424Z",
+  "messages": [
+    {
+      "id": "chat-save-1763270129424",
+      "timestamp": "2025-11-16T05:15:29.424Z",
+      "type": "user",
+      "content": "Hola mundo"
+    }
+  ]
+}
